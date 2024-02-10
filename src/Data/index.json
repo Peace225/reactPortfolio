@@ -1,0 +1,79 @@
+{
+    "Competences": [
+        {
+            "id":"1",
+            "src":"./img/Front-End.png",
+            "titre":"Front-End",
+            "description":"Spécialiste dans la création de l'interface utilisateur d'une application web ou mobile.La maitrise de langage telsque HTML, CSS, JavaScript et une connaissance approfondie des frameworks comme React"
+        },
+        {
+            "id":"2",
+            "src":"./img/Back-End.png",
+            "titre":"Back-End",
+            "description":"Responsable de la création et de la gestion des serveurs. La maitrise de langage de programmation telsque  Node.js, la connaissance des bases de données (MongoDB ou MYSQL)"
+        },
+        {
+            "id":"3",
+            "src":"./img/Design.png",
+            "titre":"Design",
+            "description":"Polyvalence, rigueur, créativité, curiosité, sensibilité et une capacité à transformer des concepts en visuels captivants. La capacité à répondre aux besoins spécifiques du client"
+        },
+        {
+            "id":"4",
+            "src":"./img/webflu.png",
+            "titre":"Google ADS",
+            "description":"Nous mettons a votre disposition un outil de publicité en ligne visant à promouvoir des produits ou services, augmenter la visibilité en ligne et générer du trafic vers les sites web des annonceurs"
+        }
+    ],
+    "Portfolio": [
+        {
+            "id":"1",
+            "src":"./",
+            "titre":"Babi",
+            "description":"Se concentre sur la mise en page, l'organisation du contenu des animations, la navigation, les langages de balisages et web telsque HTML CSS et JavaScript",
+            "link": "View In Github"
+        },
+        {
+            "id":"2",
+            "src":"./",
+            "titre":"App Dashboard",
+            "description":"Se concentre sur la création de code le déblogage des langages de programmation de gestion de bases données Node Js MongoDb, Express, MySql",
+            "link": "View In Github"
+        },
+        {
+            "id":"3",
+            "src":"./",
+            "titre":"Easy Rentn ",
+            "description":"Lorem ipsum dolor sit amet, consecteur adipiscing elit. Suspenmdisse varius ein in eros elementum tristique",
+            "link": "View In Github"
+        }
+       
+    ],
+    "Temoignage": [
+        {
+            "id":"1",
+            "nombre":"5",
+            "src":"./img/Massa.png",
+            "description":"Son engagement envers la qualité et sa résolution efficace des problèmes sont des atouts notables. Mr BRAD SERGUEÏ KOKOLIKO apporterait sans aucun doute une contribution exceptionnelle à tout environnement de développement web.",
+            "nom_auteur":"MASSA Diabate",
+            "poste":"Manager à GOMYCODE"
+        },
+        {
+            "id":"2",
+            "nombre":"5",
+            "src":"./",
+            "description":"Lorem ipsum dolor sit amet, consecteur adipiscing elit. Suspenmdisse varius ein in eros elementum tristique",
+            "nom_auteur":"Thomas",
+            "poste":"Directeur à GOMYCODE"
+        },
+        {
+            "id":"3",
+            "nombre":"5",
+            "src":"./img/Marzouk.png",
+            "description":"Un développeur web full-stack talentueux. Son expertise dans la création d'applications complètes, de la conception à la mise en oeuvres, est remarquable. Sa maitrise des langages tels que JavaScript, Node.js et React, en fait un professionnel précieux pour tout projet de développement web.",
+            "nom_auteur":"MARZOUK Idrissou",
+            "poste":"Instituteur à GOMYCODE"
+        }
+       
+    ]
+}
